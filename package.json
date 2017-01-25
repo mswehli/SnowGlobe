@@ -1,0 +1,34 @@
+{
+  "name": "snowglobe",
+  "version": "0.1.0",
+  "description": "Dynamic rendering of html elements to mimic 3D handheld affect similiar to that of holding a snowglobe",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mswehli/snowglobe.git"
+  },
+  "keywords": [
+    "snowglobe",
+    "3D"
+  ],
+  "author": "Mahmoud Swehli <mahmoud@moodie.io> (http://www.moodie.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mswehli/snowglobe/issues"
+  },
+  "homepage": "https://github.com/mswehli/snowglobe#readme",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify": "0.0.14",
+    "gulp-remove-empty-lines": "0.0.8",
+    "gulp-sass": "^2.3.2",
+    "gulp-strip-css-comments": "^1.2.0"
+  }
+}
